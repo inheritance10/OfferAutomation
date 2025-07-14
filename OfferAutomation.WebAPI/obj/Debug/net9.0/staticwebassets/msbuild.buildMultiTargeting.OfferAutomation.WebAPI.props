@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/OfferAutomation.WebAPI.props" />
+</Project>

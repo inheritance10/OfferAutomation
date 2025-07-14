@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mFCDflhPIOKNin7QF34E/qrTNasox/kyWfB6tFn5XW0=",
+  "Source": "OfferAutomation.WebAPI",
+  "BasePath": "_content/OfferAutomation.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

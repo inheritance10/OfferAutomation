@@ -1,0 +1,15 @@
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/bin/Debug/net9.0/OfferAutomation.Application.deps.json
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/bin/Debug/net9.0/OfferAutomation.Application.dll
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/bin/Debug/net9.0/OfferAutomation.Application.pdb
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/bin/Debug/net9.0/OfferAutomation.Domain.dll
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/bin/Debug/net9.0/OfferAutomation.Domain.pdb
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/OfferAutomation.Application.csproj.AssemblyReference.cache
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/OfferAutomation.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/OfferAutomation.Application.AssemblyInfoInputs.cache
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/OfferAutomation.Application.AssemblyInfo.cs
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/OfferAutomation.Application.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/OfferAut.B0F8BD47.Up2Date
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/OfferAutomation.Application.dll
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/refint/OfferAutomation.Application.dll
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/OfferAutomation.Application.pdb
+/Users/apple/Desktop/OfferAutomation/OfferAutomation.Application/obj/Debug/net9.0/ref/OfferAutomation.Application.dll
